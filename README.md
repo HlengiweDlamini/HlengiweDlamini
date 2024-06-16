@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @HlengiweDlamini
-- 👀 I’m interested in Cybersecurity as a whole and Machine Learning with Python
-- 🌱 I’m currently learning Computer Science full-time and Cybersecurity part-time
-- 💞️ I’m open to collaborate on different projects with hopes to learn and improve my skills
-- 📫 How to reach me: @hlengiwemeld24@gmail.com
+- 👋 Hi, I’m Hlengiwe Dlamini.
+- 👀 I’m interested in Cybersecurity as a whole and Machine Learning with Python.
+- 🌱 I’m currently studying Computer Science & Software Engineering full-time and Cybersecurity courses part-time.
+- 💞️ I’m open to collaborate on different types of projects under the tech field with hopes to gain more knowledge & XP and improve my skills.
+- 📫 How to reach me: @hlengiwemeld24@gmail.com 
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: Not a very fun person :)
 
